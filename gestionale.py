@@ -108,10 +108,3 @@ class Biblioteca:
                 return
             else:
                 print ("Non è presente un utente con questa Username...\nInserisci la Username corretta")
-
-"""
-- funzionalità da aggiungere: far inserire all'operatore, in fase di registrazione di un nuovo
-    libro, anche le copie che si vogliono "depositare" nella biblioteca, qual'ora ci fossero
-    dei libri con lo stesso titolo e lo stesso autore, sommare soltanto le copie, senza duplicare 
-    "titolo" e "autore" / togliere l'id autoincrementato anche nell'aggiunta dei libri
-"""
