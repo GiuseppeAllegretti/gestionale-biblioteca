@@ -1,0 +1,30 @@
+{
+    "libri": {
+        "1": {
+            "titolo": "Factfullness",
+            "autore": "Hien"
+        },
+        "2": {
+            "titolo": "Il signore degli anelli",
+            "autore": "Mia sorella"
+        },
+        "3": {
+            "titolo": "ggggg",
+            "autore": "jjjjj"
+        }
+    },
+    "utenti": {
+        "Sbrebbaz": {
+            "nome": "GIUSEPPE",
+            "cognome": "ALLEGRETTI"
+        },
+        "Freddura": {
+            "nome": "GIACOMO",
+            "cognome": "FREDDI"
+        },
+        "sdsa": {
+            "nome": "GIUSEPKDA",
+            "cognome": ""
+        }
+    }
+}
