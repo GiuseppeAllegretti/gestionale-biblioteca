@@ -101,7 +101,7 @@ class Biblioteca:
     def rimuoviUtente (self):
             userDaRimuovere = input ("Inserisci la username corrispondente all'utente che vuoi cancellare -> ")
             
-            if userDaRimuovere in self.utenti: # se l'id preso dall'input è presente nel dizionario utenti, viene rimosso 
+            if userDaRimuovere in self.utenti: # se la username presa in input è presente nel dizionario utenti, viene rimosso 
                 del self.utenti[userDaRimuovere]
                 self.salvaDati ()
                 print ("Utente rimosso con successo...")
